@@ -61,8 +61,8 @@ fullstack-dev-takehome/
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/nyansapoai.git
-   cd nyansapoai/fullstach-dev-takehome
+   git clone https://github.com/AbubakariSadikOsman/nyansapoai-cls.git
+   cd nyansapoai-cls/fullstach-dev-takehome
    ```
 
 2. Install dependencies:
