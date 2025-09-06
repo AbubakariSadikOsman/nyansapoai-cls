@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "NyansapoAI CLS",
+    "slug": "nyansapo-ai-cls",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "nyansapo-ai-cls",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    }
+  }
+}
+
+
