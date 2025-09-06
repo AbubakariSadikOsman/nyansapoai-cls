@@ -4,7 +4,7 @@ React Native (**Expo**) mobile application for tracking student performance acro
 
 ## Links
 
-- **GitHub Repository:** [NyansapoAI Fullstake Developer Take Home Assessment](https://github.com/AbubakariSadikOsman/nyansapoai)
+- **GitHub Repository:** [NyansapoAI Fullstake Developer Take Home Assessment](https://github.com/AbubakariSadikOsman/nyansapoai-cls)
 - **Figma Design:** [NyansapoAI CLS UI/UX](https://www.figma.com/design/d9UfhQ310Tlew3v0HPMhzq/Nyansapo-AI---CLS?node-id=0-1&t=UHGEIkg1RwUBs8nm-1)
 
 ## Design Decisions
